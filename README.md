@@ -30,8 +30,7 @@ Creating new features based on existing data
 Selecting the most relevant features for the model
 
 <h4>3. Model Selection:</h4>  
-Trying different models (e.g., Linear Regression, LSTM, etc.)
-Hyperparameter tuning
+Random Forest Model selected
 
 <h4>4. Model Training and Testing:</h4>
 Training the model on the training set
