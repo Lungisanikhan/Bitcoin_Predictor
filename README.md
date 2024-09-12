@@ -15,7 +15,7 @@ Matplotlib/Seaborn: Data visualization
 Scikit-learn: Machine learning library
 TensorFlow/Keras: Deep learning framework
 
-Steps Involved
+<h3>Steps Involved</h3>
 
 Data Preprocessing:
 Handling null values and outliers
