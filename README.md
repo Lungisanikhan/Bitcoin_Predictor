@@ -46,16 +46,17 @@ Creating a user-friendly interface for predictions
 The model’s performance metrics (e.g., RMSE, MAE)
 Visualizations of the predicted vs. actual prices
 
+<h4>Future Work</h4>
+Improving the model’s accuracy
+Adding more features
+Exploring other machine learning algorithms
+
 <h3>How to Run the Project</h3>
 Clone the repository.
 Download the dataset from Kaggle and place it in the appropriate directory.
 Open the project in Google Colab.
 Run the cells in the notebook to preprocess the data, train the model, and make predictions.
 
-<h4>Future Work</h4>
-Improving the model’s accuracy
-Adding more features
-Exploring other machine learning algorithms
-
 <h3>Contributing</h3>
 Feel free to fork the repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
+
