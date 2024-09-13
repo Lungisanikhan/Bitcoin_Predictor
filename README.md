@@ -1,9 +1,8 @@
 <h1>Bitcoin Price Predictor</h1>
 <h2>Project Overview</h2>
 <b>Objective:</b> This project aims to predict Bitcoin prices using historical data from 2018 to 2024. The model is built and trained using Google Colab.
-
-<b>Dataset</b>
-<p>Name:BITCOIN Historical Datasets 2018-2024</p>
+<p>
+<b>Dataset Name:</b> BITCOIN Historical Datasets 2018-2024
 Source: Kaggle
 <p>Description: The dataset contains daily historical data of Bitcoin prices, including columns such as Open, High, Low, Close, Volume, and more.
 Tools and Libraries</p>
@@ -14,7 +13,7 @@ NumPy: Numerical computing
 Matplotlib/Seaborn: Data visualization
 Scikit-learn: Machine learning library
 TensorFlow/Keras: Deep learning framework
-
+<p/>
 <h3>Steps Involved</h3>
 
 <h4>1. Data Preprocessing:</h4>
