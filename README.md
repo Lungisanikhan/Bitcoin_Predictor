@@ -4,7 +4,7 @@
 <p>
     
 Dataset Name: BITCOIN Historical Datasets 2018-2024
-Source: Kaggle
+<p>Source: Kaggle</p>
 <p>Description: The dataset contains daily historical data of Bitcoin prices, including columns such as Open, High, Low, Close, Volume, and more.
 Tools and Libraries</p>
 Google Colab: For running the model
