@@ -7,12 +7,11 @@ Source: Kaggle
 <p>Description: The dataset contains daily historical data of Bitcoin prices, including columns such as Open, High, Low, Close, Volume, and more.
 Tools and Libraries</p>
 Google Colab: For running the model
-Python: Programming language
-Pandas: Data manipulation and analysis
-NumPy: Numerical computing
-Matplotlib/Seaborn: Data visualization
-Scikit-learn: Machine learning library
-TensorFlow/Keras: Deep learning framework
+<p>Python: Programming language</p>
+<p>Pandas: Data manipulation and analysis</p>
+<p>NumPy: Numerical computing</p>
+<p>Matplotlib/Seaborn: Data visualization</p>
+<p>Scikit-learn: Machine learning library</p>
 <p/>
 <h3>Steps Involved</h3>
 
@@ -24,23 +23,23 @@ Splitting the data into training and testing sets
 <h4>2. Exploratory Data Analysis (EDA):</h4>  
 Visualizing trends and patterns in the data
 Correlation analysis
-Feature Engineering:
+<h4>3. Feature Engineering:</h4>
 Creating new features based on existing data
 Selecting the most relevant features for the model
 
-<h4>3. Model Selection:</h4>  
+<h4>4. Model Selection:</h4>  
 Random Forest Model selected
 
-<h4>4. Model Training and Testing:</h4>
+<h4>5. Model Training and Testing:</h4>
 Training the model on the training set
 Evaluating the model on the testing set
 Avoiding overfitting and bias
 
-<h4>5. Deployment:</h4>
+<h4>6. Deployment:</h4>
 Saving the trained model
 Creating a user-friendly interface for predictions
 
-<h4>6. Results </h4>
+<h4>7. Results </h4>
 The model’s performance metrics (e.g., RMSE, MAE)
 Visualizations of the predicted vs. actual prices
 
